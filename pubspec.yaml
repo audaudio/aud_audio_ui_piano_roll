@@ -12,9 +12,9 @@ environment:
 dependencies:
   aud_audio_sequencer:
     git:
-      url: https://github.com/audaudio/aud_audio_sequencer.git
+      url: git@github.com:audaudio/aud_audio_sequencer.git
       tag_pattern: "{{version}}"
-    version: ^0.0.1
+    version: ^0.0.2
   flutter:
     sdk: flutter
 
