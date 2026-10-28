@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_audio_ui_piano_roll` package.
-const String audAudioUiPianoRollVersion = '0.0.3';
+const String audAudioUiPianoRollVersion = '0.1.0';
